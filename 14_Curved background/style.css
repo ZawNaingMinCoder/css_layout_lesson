@@ -1,0 +1,5 @@
+.contaier {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-bottom-left-radius: 50% 40%;
+  border-top-right-radius: 50% 40%;
+}

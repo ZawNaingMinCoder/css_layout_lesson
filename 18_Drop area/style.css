@@ -1,0 +1,7 @@
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border: 4px dashed rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}

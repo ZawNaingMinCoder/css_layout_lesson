@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+}
+.container__wrapper {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+}
+.container__ribbon {
+  left: 64;
+  position: absolute;
+  top: 32px;
+  transform: rotate(-45deg);
+  background-color: rgba(0, 0, 0, 0.3);
+  text-align: center;
+}

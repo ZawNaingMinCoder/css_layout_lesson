@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 16px 0;
+}
+.container__miage {
+  width: 128px;
+}
+.images {
+  image-rendering: auto;
+}
+.container__feature {
+  flex: 1;
+}
