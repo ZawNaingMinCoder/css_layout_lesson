@@ -1,0 +1,6 @@
+.header {
+  background-color: #ddd;
+  left: 0;
+  position: static;
+  z-index: 9999;
+}
